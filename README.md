@@ -15,7 +15,4 @@ Hi, I'm Ömer Özoğlu and I am currently software engineering student at Manisa
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omerozoglu&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

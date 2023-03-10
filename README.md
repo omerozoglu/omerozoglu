@@ -10,8 +10,4 @@ Hi, I'm Ömer Özoğlu and I am currently software engineering student at Manisa
 ![](https://github-readme-stats.vercel.app/api?username=omerozoglu&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omerozoglu&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerozoglu&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omerozoglu&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
